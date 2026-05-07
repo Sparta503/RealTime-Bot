@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+sqlalchemy
+psycopg2
+redis
+python-jose
+passlib
